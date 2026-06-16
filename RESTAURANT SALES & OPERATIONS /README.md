@@ -1,45 +1,45 @@
-Restaurant Sales & Operations Dashboard
+🍽️ Restaurant Sales & Operations Dashboard (Excel)
 
-This project is an interactive Restaurant Sales & Operations Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, and KPI Cards. The dashboard provides a comprehensive overview of restaurant performance by analyzing revenue, orders, delivery operations, discounts, and customer service metrics.
+An interactive Excel dashboard designed to analyze restaurant sales performance, order management, delivery efficiency, and operational KPIs. This project transforms raw restaurant order data into actionable business insights through dynamic visualizations, KPI cards, Pivot Tables, Pivot Charts, and Slicers.
 
-Key Features
-Revenue Analysis
-Total Revenue Tracking
-Top 5 Restaurants by Revenue
-Monthly Sales Trend Analysis
-Order Performance
-Total Orders Overview
-Order Status Distribution (Delivered, Picked Up, Rejected, Returned, Timed Out, etc.)
-Restaurant-wise Order Insights
-Operational Metrics
-Average Preparation Time
+📊 Dashboard Highlights
+Total Revenue Analysis – Monitor overall business revenue performance.
+Order Tracking – Analyze total orders and order status distribution.
+Restaurant Performance – Identify top-performing restaurants based on revenue.
+Monthly Sales Trends – Track sales growth and seasonal patterns.
+Discount Impact Analysis – Evaluate how discounts influence revenue generation.
+Delivery Operations Insights
 Delivery Distance vs Rider Wait Time
-Delivery Distance vs Delivery Time Analysis
-Discount & Profitability Insights
-Discount Impact on Revenue
-Restaurant-wise Discount Comparison
-Interactive Filtering
-Month-based Slicer
-Order Status Slicer
-Restaurant Filter
-Location Filter
-Tools & Techniques Used
+Delivery Distance vs Delivery Time
+Operational KPIs
+Total Revenue
+Total Orders
+Total Restaurants
+Average Preparation Time
+Interactive Filters
+Restaurant Name
+Location/Subzone
+Order Status
+Month
+🛠️ Tools Used
 Microsoft Excel
 Pivot Tables
 Pivot Charts
 Slicers
+Conditional Formatting
 KPI Cards
-Data Visualization
-Dashboard Design
-Business Value
+Data Visualization Techniques
+🎯 Objective
 
-This dashboard helps restaurant managers and business analysts:
+The goal of this dashboard is to provide restaurant managers and business analysts with a centralized view of sales and operational performance, enabling data-driven decisions to improve revenue, delivery efficiency, and customer satisfaction.
 
-Monitor sales performance in real time
-Identify top-performing restaurants
-Analyze delivery efficiency
-Evaluate the impact of discounts on revenue
-Make data-driven operational decisions
-Dashboard Preview
+📈 Key Insights Generated
+Top revenue-generating restaurants
+Sales trends across different months
+Distribution of order statuses
+Effectiveness of discount strategies
+Relationship between delivery distance and service efficiency
+Best-performing restaurant and location analysis
+📷 Dashboard Preview
 
-The dashboard presents key business metrics in a clean and interactive interface, enabling users to quickly explore trends, compare restaurant performance, and gain actionable insights from operational data
+A fully interactive dashboard that allows users to filter data dynamically and gain real-time insights into restaurant operations and sales performance.
